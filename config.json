@@ -1,0 +1,53 @@
+
+
+{
+  "Crop": {
+    "size": [100, 200]
+  },
+  "Rotate": {
+    "degrees": 20
+  },
+  "Translate": {
+    "translate": [0.3, 0.3]
+  },
+  "Scale": {
+    "scale": [0.7, 1.3]
+  },
+  "Shear": {
+    "shear": [10, 100, 10, 100]
+  },
+  "Hflip": {},
+  "Vflip": {},
+  "Equalize": {
+    "mask": null
+  },
+  "Posterize": {
+    "bits" : 2
+  },
+  "Grayscale": {
+    "num_output_channels": 1
+  },
+  "Normalnoise": {
+    "loc": 0.0,
+    "scale": 0.1
+  },
+  "Uniformnoise": {
+    "alpha": 0.2
+  },
+  "Contrast": {
+    "contrast": 0.8
+  },
+  "Brightness": {
+    "brightness": 0.7
+  },
+  "Saturation": {
+    "saturation": 0.7
+  },
+  "Hue": {
+    "hue": 0.5
+  },
+  "Erase": {
+    "value": 100
+  }
+
+}
